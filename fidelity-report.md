@@ -1,8 +1,8 @@
-# Fidelity Report · caj-to-pdf
+# Fidelity Report · caj2pdf-offline
 
 - 生成时间：2026-07-25
-- 源技能：C:\Users\zyd\.workbuddy\skills\caj-to-pdf\SKILL.md
-- 衍生版：C:\Users\zyd\.workbuddy\skills\caj-to-pdf\SKILL.ai-readable.md
+- 源技能：C:\Users\zyd\.workbuddy\skills\caj2pdf-offline\SKILL.md
+- 衍生版：C:\Users\zyd\.workbuddy\skills\caj2pdf-offline\SKILL.ai-readable.md
 - 技能类型：utility（含 coding 要素：自带可运行脚本）
 - 转换工具：skill-clarity-forge v2.3.1（保真优先 SOP）
 - 隐私说明：本次未向云端发送任何信号（按用户偏好跳过 upload，仅本地跑辅助脚本）
